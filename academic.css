@@ -96,6 +96,16 @@ img[alt~="center"] {
   margin: 0 auto;
 }
 
+pre {
+  background-color: #fdfdfd; /* Very light off-white background */
+  color: #000000;            /* Black text for strong readability */
+  border: 2px solid #000000; /* Black border for clear definition */
+  padding: 12px;             /* Generous padding for visual balance */
+  border-radius: 5px;        /* Slightly rounded corners for a refined look */
+  font-size: 0.9em;          /* Slightly reduced font size for compactness */
+  overflow: auto;            /* Enable scrolling if necessary */
+}
+
 code {
   font-family: 'Source Code Pro', monospace;
 }
