@@ -35,6 +35,9 @@ section.lead h1 {
 section.lead h1 strong {
   -webkit-text-stroke: 1px #000000;
 }
+section.title-slide h1 {
+  color: #000000;
+}
 section.lead h2 {
   color: #000000;
   text-align: left;
